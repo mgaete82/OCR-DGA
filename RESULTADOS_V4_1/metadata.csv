@@ -1,0 +1,6 @@
+﻿archivo,tipo_documento,expediente,patron_detectado,paginas,ocr_aplicado,texto_extraido,largo_texto,fecha_detectada,comuna,plano,error
+Expedientes_P0001_00022.pdf,OFICIO,A-10,EXPEDIENTE_MODERNO,14,True,True,24147,22 DE JULIO DE 1988,SAN GREGORIO,,
+Expedientes_P0001_00023.pdf,OFICIO,E-1,EXPEDIENTE_MODERNO,171,True,True,274380,"16 DE MAYO DE
+1783",DE DIEGO DE ALMAGRO,,
+Expedientes_P0001_00024.pdf,OFICIO,F-6020,EXPEDIENTE_MODERNO,50,True,True,94565,6 DE SEPTIEMBRE DE 1954,Y PROVINCIA DE CHANA,,
+Expedientes_P0001_00030.pdf,OFICIO,M-4,EXPEDIENTE_MODERNO,58,True,True,127625,15 DE FEBRERO DE 1904,DE TLIERRA,,
